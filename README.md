@@ -1,6 +1,6 @@
 # Context
 
-Android Development / Java Tutorials - Lesson 9
+Android Development / Java Tutorial - Lesson 9
 
 Context Types
 
